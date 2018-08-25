@@ -1,0 +1,10 @@
+setup.py
+lstm_pencil.egg-info/PKG-INFO
+lstm_pencil.egg-info/SOURCES.txt
+lstm_pencil.egg-info/dependency_links.txt
+lstm_pencil.egg-info/not-zip-safe
+lstm_pencil.egg-info/requires.txt
+lstm_pencil.egg-info/top_level.txt
+training/__init__.py
+training/board.py
+training/lstm_pencil_digits.py
