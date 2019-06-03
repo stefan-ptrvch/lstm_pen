@@ -1,4 +1,4 @@
-# LSTM Pencil
+# LSTM Pen
 LSTM project that classifies digits from motion processor data.
 
 ## Dependencies
